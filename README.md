@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sheth007
-- 👀 I’m interested in coding </>
-- 🌱 I’m currently learning SQL and PYTHON
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me shethuday8@gmail.com
+- 👋 Hi, I’m @Shet007
+- 👀 I’m interested in coding, music, games
+- 🌱 I’m currently learning Ethical Hacking and Pursuing BCA
+- 📫 Contact me shethuday8@gmail.com
 
 <!---
 Sheth007/Sheth007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
