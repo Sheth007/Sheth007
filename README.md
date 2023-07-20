@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shet007
+- 👋 Hi, I’m Uday Sheth
 - 👀 I’m interested in coding, music, games
 - 🌱 I’m currently learning Ethical Hacking and Pursuing BCA
 - 📫 Contact me shethuday8@gmail.com
