@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sheth Uday</h1>
 <h3 align="center">A Student of BCA at Atmiya University at Rajkot, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="sheth007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="Sheth007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheth007" alt="sheth007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sheth007" alt="Sheth007" /></a> </p>
 
 - 🔭 I’m currently working on **Indie Vibes**
 
