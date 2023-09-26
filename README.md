@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheth Uday</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Student of BCA at Atmiya University at Rajkot, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="sheth007" /> </p>
 
