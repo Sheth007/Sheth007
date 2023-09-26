@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="Sheth007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sheth007" alt="Sheth007" /></a> </p>
-
 - 🔭 I’m currently working on **Indie Vibes**
 
 - 🌱 I’m currently learning **C#, MVC IN PHP**
