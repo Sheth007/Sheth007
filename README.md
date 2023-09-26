@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheth Uday</h1>
 <h3 align="center">A Student of BCA at Atmiya University at Rajkot, India</h3>
 
-- 🔭 I’m currently working on **Indie Vibes**
+- 🔭 I’m currently working on **Indie Vibes a music sterming website which is Ad-Free**
 
 - 🌱 I’m currently learning **C#, MVC IN PHP**
 
