@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Indie Vibes a music sterming website which is Ad-Free**
 
-- 🌱 I’m currently learning **C#, MVC IN PHP**
+- 🌱 I’m currently learning **C#, Mvc In Php, Laravel**
 
-- 💬 Ask me about **PHP, C#**
+- 💬 Ask me about **Php, C#**
 
 - 📫 How to reach me **shethuday8@gmail.com**
 
