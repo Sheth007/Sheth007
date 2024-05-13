@@ -2,11 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="Sheth007" /> </p>
 
-- 🔭 I’m currently working on **Indie Vibes a music sterming website which is Ad-Free**
+- 🔭 I’m currently working on **Few Project's which is developed with the help of AI**
 
-- 🌱 I’m currently learning **C#, Mvc In Php, Laravel**
-
-- 💬 Ask me about **Php, C#**
+- 💬 Ask me about **Ai Tools, Content Creation, and Programming**
 
 - 📫 How to reach me **shethuday8@gmail.com**
 
