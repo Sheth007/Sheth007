@@ -4,8 +4,7 @@
 
 - 👨‍💻 My Projects **1. Indie Vibes : Indie Vibes is a free to use music streaming website,**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2. Telegram Bot : Created a telegram bot to fetch letest stock price of any stock and it does not matter that the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stock is listed or not, it also find specific stock news from A to Z,**<br>
-<br>
-                  **3. Client Vista : Client Vista is a small customer relationship management website that helps customers to connect with company directly for any help if needed,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3. Client Vista : Client Vista is a small customer relationship management website that helps customers to connect with company directly for any help if needed,<br>
                                       and its simple to use and easy access.**  <br>
 
 - 🔭 I’m currently working on **Few Project's which is developed with the help of AI**
