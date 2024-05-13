@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sheth Uday</h1>
-<h3 align="center">A Student of BCA at Atmiya University at Rajkot, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="Sheth007" /> </p>
 
