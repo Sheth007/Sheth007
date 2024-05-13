@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="Sheth007" /> </p>
 
-- 👨‍💻 My Projects **1. Indie Vibes : Indie Vibes is a free to use music streaming website,**
-                  **2. Telegram Bot : Created a telegram bot to fetch letest stock price of any stock and it does not matter that the stock is listed or not,
-                                      it also find specific stock news from A to Z,**
-                  **3. Client Vista : Client Vista is a small customer relationship management website that helps customers to connect with company directly for any help if needed,
-                                      and its simple to use and easy access.**  
+- 👨‍💻 My Projects **1. Indie Vibes : Indie Vibes is a free to use music streaming website,**<br>
+                  **2. Telegram Bot : Created a telegram bot to fetch letest stock price of any stock and it does not matter that the stock is listed or not,<br>
+                                      it also find specific stock news from A to Z,**<br>
+                  **3. Client Vista : Client Vista is a small customer relationship management website that helps customers to connect with company directly for any help if needed,<br>
+                                      and its simple to use and easy access.**  <br>
 
 - 🔭 I’m currently working on **Few Project's which is developed with the help of AI**
 
