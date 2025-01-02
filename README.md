@@ -4,7 +4,7 @@
 
 - 👋 **Visit Portfolio ::: https://sheth007.github.io/Portfolio/**
 
-- 👨‍💻 **My Projects :::**<br><br> **1. Indie Vibes : Indie Vibes is a free to use music streaming website, Just a clone like SPOTIFY**<br><br>
+- 👨‍💻 **My Projects :::**<br><br> **1. Indie Vibes : Indie Vibes is a free to use music streaming website, Just a clone like SPOTIFY, you can view the album of particular singer also can play the random songs also all the basic functionality such as others**<br><br>
 **2. Telegram Bot : Created a telegram bot to fetch letest stock price of any stock and it does not matter that the stock is listed or not, it also find specific stock news from A to Z,**<br><br>
 **3. Price Comparision Tool : I created a simple but helpful price comparision tools in python, it takes the user input and find the price of product from various websites (you can check it in the repo.)**  <br>
 
