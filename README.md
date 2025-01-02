@@ -6,7 +6,7 @@
 
 - 👨‍💻 **My Projects :::**<br><br> **1. Indie Vibes : Indie Vibes is a free to use music streaming website, Just a clone like SPOTIFY**<br><br>
 **2. Telegram Bot : Created a telegram bot to fetch letest stock price of any stock and it does not matter that the stock is listed or not, it also find specific stock news from A to Z,**<br><br>
-**3. Client Vista : Client Vista is a small customer relationship management website that helps customers to connect with company directly for any help if needed, and its simple to use and easy access.**  <br>
+**3. Price Comparision Tool : I created a simple but helpful price comparision tools in python, it takes the user input and find the price of product from various websites (you can check it in the repo.)**  <br>
 
 - 🔭 I’m currently working on **Few Project's which is developed with the help of AI**
 
