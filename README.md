@@ -19,7 +19,3 @@
 <a href="https://linkedin.com/in/shethuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shethuday" height="30" width="40" /></a>
 <a href="https://youtube.com/@shethuday?si=ULqEu-mQHX14L0Kd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brain_wavee" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheth007&show_icons=true&locale=en&layout=compact" alt="sheth007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheth007&show_icons=true&locale=en" alt="sheth007" /></p>
