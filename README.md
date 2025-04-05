@@ -1,26 +1,88 @@
-# 💫 About Me:
-I'm currently pursuing MCA from Marwadi University
+# Hi there! 👋 I'm Sheth Uday (Sheth007)
 
+🎓 **Education**:  
+I'm currently pursuing my Master of Computer Applications (MCA) at Marwadi University. Previously, I completed my Bachelor's degree in Computer Applications (BCA).
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/udaysheth_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udaysheth) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/shethh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shethuday) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shethuday505@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sheth007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sheth007&theme=dark&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sheth007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sheth007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🏡 **Location**:  
+Rajkot, India
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="sheth007" /> </p>
+## 🚀 About Me
 
+- 💻 Passionate about software development and open-source contributions.
+- 🌱 Currently learning advanced web development and cloud technologies.
+- 🤝 Open to collaborating on innovative projects and exploring new technologies.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**:  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+- **Scripting & Shells**:  
+  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+- **Frameworks & Platforms**:  
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+- **Databases**:  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+- **Design & Multimedia**:  
+  ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+- **Data Analysis**:  
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white)
+
+- **Tools & Utilities**:  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=flat-square&logo=Tampermonkey&logoColor=white)
+  ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=tor-browser&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Sheth007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheth007&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheth007&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sheth007&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ShethUday-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shethuday)
+[![Instagram](https://img.shields.io/badge/Instagram-@sheth_uday-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sheth_uday)
+[![Reddit](https://img.shields.io/badge/Reddit-u/Sheth007-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Sheth007)
+[![YouTube](https://img.shields.io/badge/YouTube-ShethUday-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel-id)
+[![Email](https://img.shields.io/badge/Email-shethuday@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shethuday@example.com)
+
+---
+
+## 📌 Pinned Repositories
+
+[![Brute-Force](https://github-readme-stats.vercel.app/api/pin/?username=Sheth007&repo=Brute-Force&theme=radical)](https://github.com/Sheth007/Brute-Force)
+[![INDIE-VIBES](https://github-readme-stats.vercel.app/api/pin/?username=Sheth007&repo=INDIE-VIBES&theme=radical)](https://github.com/Sheth007/INDIE-VIBES)
+[![Stock-Info](https://github-readme-stats.vercel.app/api/pin/?username=Sheth007&repo=Stock-Info&theme=radical)](https
+::contentReference[oaicite:0]{index=0}
