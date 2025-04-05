@@ -57,7 +57,7 @@ I'm currently pursuing my Master of Computer Applications (MCA) at Marwadi Unive
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-shethuday@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shethuday505@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shethuday505@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shethuday505@gmail.com)
 
 ---
 
