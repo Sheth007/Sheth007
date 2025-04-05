@@ -72,17 +72,8 @@ Rajkot, India
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ShethUday-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shethuday)
-[![Instagram](https://img.shields.io/badge/Instagram-@sheth_uday-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sheth_uday)
-[![Reddit](https://img.shields.io/badge/Reddit-u/Sheth007-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Sheth007)
-[![YouTube](https://img.shields.io/badge/YouTube-ShethUday-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel-id)
-[![Email](https://img.shields.io/badge/Email-shethuday@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shethuday@example.com)
+[![Email](https://img.shields.io/badge/Email-shethuday@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shethuday505@gmail.com)
 
 ---
 
-## 📌 Pinned Repositories
-
-[![Brute-Force](https://github-readme-stats.vercel.app/api/pin/?username=Sheth007&repo=Brute-Force&theme=radical)](https://github.com/Sheth007/Brute-Force)
-[![INDIE-VIBES](https://github-readme-stats.vercel.app/api/pin/?username=Sheth007&repo=INDIE-VIBES&theme=radical)](https://github.com/Sheth007/INDIE-VIBES)
-[![Stock-Info](https://github-readme-stats.vercel.app/api/pin/?username=Sheth007&repo=Stock-Info&theme=radical)](https
-::contentReference[oaicite:0]{index=0}
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="sheth007" /> </p>
