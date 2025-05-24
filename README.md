@@ -7,7 +7,7 @@ I'm currently pursuing Master of Computer Applications (MCA) at Marwadi Universi
 
 ## 🚀 About Me
 
-- <h3>⚡ Portfolio : https://uday-sheth-portfolio.netlify.app/ </h3>
+- ⚡ Portfolio : https://uday-sheth-portfolio.netlify.app/
 - 💻 Passionate about software development and open-source contributions.
 - 🌱 Currently learning advanced web development and cloud technologies.
 - 🤝 Open to collaborating on innovative projects and exploring new technologies.
