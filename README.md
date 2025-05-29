@@ -55,6 +55,12 @@ I'm currently pursuing Master of Computer Applications (MCA) at Marwadi Universi
 
 ---
 
+## 🏆 Leetcode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/uday_sheth?ext=contest)
+
+---
+
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-shethuday505@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shethuday505@gmail.com)
