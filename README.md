@@ -23,20 +23,17 @@ I'm currently pursuing Master of Computer Applications (MCA) at Marwadi Universi
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
 
-![Windows Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_logo_2021.svg)  
-![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Tux.png)
+---
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sheth007&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sheth007&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheth007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-<!-- ## 📊 GitHub Stats
-
-<!-- ![Sheth007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheth007&show_icons=true&theme=radical)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheth007&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sheth007&theme=radical)
 
