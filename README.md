@@ -47,7 +47,7 @@ I'm currently pursuing Master of Computer Applications (MCA) at Marwadi Universi
 
 <!-- ![Sheth007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheth007&show_icons=true&theme=radical) -->
 
-![Sheth007's GitHub Stats](https://github-profile-trophy.vercel.app/?username=Sheth007-ma&no-frame=true)
+https://github-profile-trophy.vercel.app/?username=Sheth007-ma&no-frame=true
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheth007&layout=compact&theme=radical) -->
 
