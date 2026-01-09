@@ -23,6 +23,10 @@ I'm currently pursuing Master of Computer Applications (MCA) at Marwadi Universi
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
 
+![Windows Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_logo_2021.svg)  
+![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Tux.png)
+
+
 ---
 
 <!-- ## 📊 GitHub Stats
