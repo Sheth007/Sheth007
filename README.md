@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sheth Uday (Sheth007)
 
 🎓 **Education**:  
-I'm currently pursuing Master of Computer Applications (MCA) at Marwadi University.
+I did my masters in Master Of Computer Applications(MCA) from Marwadi University.
 
 ---
 
