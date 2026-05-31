@@ -7,7 +7,7 @@ I did my master's in Master of Computer Applications (MCA) from Marwadi Universi
 
 ## 🚀 About Me
 
-- ⚡ Portfolio : https://uday-sheth-portfolio.netlify.app/
+- ⚡ Portfolio : https://udaysheth.netlify.app/
 - 💻 Passionate about software/web development and open-source contributions.
 - 🤝 Open to collaborating on innovative projects and exploring new technologies.
 
