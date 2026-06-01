@@ -1,16 +1,14 @@
 # Hi there! 👋 I'm Sheth Uday (Sheth007)
 
-🎓 **Education**:  
-I did my master's in Master of Computer Applications (MCA) from Marwadi University.
-
 ---
 
 ## 🚀 About Me
 
-- ⚡ Portfolio : https://udaysheth.netlify.app/
-- 💻 Passionate about software/web development and open-source contributions.
-- 🤝 Open to collaborating on innovative projects and exploring new technologies.
+- I'm Uday Sheth, a Laravel developer from Rajkot, India. I build web applications, browser extensions, and open-source software, with experience in Laravel development and automation.
 
+- BCA & MCA graduate. Open to full-time roles, freelance projects, and collaborations.
+
+- ⚡ Portfolio : https://udaysheth.netlify.app/
 ---
 
 # 💻 Tech Stack:
