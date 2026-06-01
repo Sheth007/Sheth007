@@ -23,26 +23,6 @@ I did my master's in Master of Computer Applications (MCA) from Marwadi Universi
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sheth007&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sheth007&theme=dark&hide_border=true)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheth007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Sheth007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🏆 Leetcode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/uday_sheth?ext=contest)
-
----
-
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-shethuday505@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shethuday505@gmail.com)
