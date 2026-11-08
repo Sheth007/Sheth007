@@ -1,36 +1,23 @@
-# Hi there! 👋 I'm Sheth Uday (Sheth007)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-room?username=sheth007&mode=light" />
+  <img src="https://www.gitskins.com/api/section/pixel-room?username=sheth007&mode=dark" width="100%" alt="Sheth Uday's pixel studio" />
+</picture>
 
----
+<sub>The window shows the weather in Rajkot right now. The monitor scrolls my latest commits; the shelf holds a book for each language I write.</sub>
 
-## 🚀 About Me
+<a href="https://github.com/sheth007">GitHub</a> · <a href="https://udaysheth.netlify.app/">Portfolio</a> · <a href="https://x.com/UdaySheth_">X</a>
 
-- I'm Uday Sheth, a Laravel developer from Rajkot, India. I build web applications, browser extensions, and open-source software, with experience in Laravel development and automation.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-hud?username=sheth007&mode=light" />
+  <img src="https://www.gitskins.com/api/section/pixel-hud?username=sheth007&mode=dark" width="100%" alt="Commits, pull requests, stars and best streak" />
+</picture>
 
-- BCA & MCA graduate. Open to full-time roles, freelance projects, and collaborations.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-header?username=sheth007&title=%3E+Projects&mode=light" />
+  <img src="https://www.gitskins.com/api/section/pixel-header?username=sheth007&title=%3E+Projects&mode=dark" width="100%" alt="Projects" />
+</picture>
 
-- ⚡ Portfolio : https://udaysheth.netlify.app/
----
+<a href="https://github.com/Sheth007/Data-Harvester"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=sheth007&i=0&r=Data-Harvester&mode=light" /><img src="https://www.gitskins.com/api/section/pixel-card?username=sheth007&i=0&r=Data-Harvester&mode=dark" width="49%" alt="Data-Harvester: DataHarvester: A step-by-step OSINT guide to start with just a name and discover public accounts, social profiles, and other digital traces - all legal, passive, and educational." /></picture></a> <a href="https://github.com/Sheth007/ECommerce-Price-Scraper"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=sheth007&i=1&r=ECommerce-Price-Scraper&mode=light" /><img src="https://www.gitskins.com/api/section/pixel-card?username=sheth007&i=1&r=ECommerce-Price-Scraper&mode=dark" width="49%" alt="ECommerce-Price-Scraper: A powerful and flexible tool to track and compare prices of products from various sources." /></picture></a>
+<a href="https://github.com/Sheth007/Ghost-Clean"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=sheth007&i=2&r=Ghost-Clean&mode=light" /><img src="https://www.gitskins.com/api/section/pixel-card?username=sheth007&i=2&r=Ghost-Clean&mode=dark" width="49%" alt="Ghost-Clean: Ghost Clean is a firefox extension that instantly clears your browsing data like history, cookies, cache, downloads, passwords, and more and then opens a fresh new tab after cleanup. One click and your browser is wiped clean." /></picture></a> <a href="https://github.com/Sheth007/PHP-Scraper"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=sheth007&i=3&r=PHP-Scraper&mode=light" /><img src="https://www.gitskins.com/api/section/pixel-card?username=sheth007&i=3&r=PHP-Scraper&mode=dark" width="49%" alt="PHP-Scraper: Simple PHP Scraper That Scrapes The Live Share Prices" /></picture></a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=plastic&logo=tampermonkey&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
-
-### 🖥️ Operating Systems:
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
-
----
-
-## 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-shethuday505@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shethuday505@gmail.com)
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheth007&label=Profile%20views&color=0e75b6&style=flat" alt="sheth007" /> </p>
-
-<!-- 
-
-![Metrics](https://metrics.lecoq.io/Sheth007?template=classic&isocalendar=1&languages=1&stargazers=1&lines=1&people=1&repositories=1&achievements=1&traffic=1&code=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&introduction=false&introduction.title=true&config.timezone=Asia%2FCalcutta)
-
--->
+<sub>Pixel Studio · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
