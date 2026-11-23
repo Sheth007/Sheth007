@@ -1,0 +1,741 @@
+<svg
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      width="880"
+      height="448"
+      viewBox="0 0 880 448"
+      role="img"
+      aria-label="Sheth Uday's pixel studio"
+    >
+      <style>
+        .cloud {
+          animation: drift linear infinite;
+        }
+        @keyframes drift {
+          from {
+            transform: translateX(-14px);
+          }
+          to {
+            transform: translateX(48px);
+          }
+        }
+        .scroll {
+          animation: scroll 14s linear infinite;
+        }
+        @keyframes scroll {
+          to {
+            transform: translateY(var(--h));
+          }
+        }
+        .flicker {
+          animation: fl 3.2s ease-in-out infinite;
+        }
+        @keyframes fl {
+          50% {
+            opacity: 0.11;
+          }
+        }
+        .tw {
+          animation: tw 2.4s ease-in-out infinite;
+        }
+        @keyframes tw {
+          50% {
+            opacity: 0.2;
+          }
+        }
+        .rain {
+          animation: rain 1.2s linear infinite;
+        }
+        @keyframes rain {
+          to {
+            transform: translateY(36px);
+          }
+        }
+        .snow {
+          animation: snow 4s linear infinite;
+        }
+        @keyframes snow {
+          to {
+            transform: translate(4px, 37px);
+          }
+        }
+        .steam {
+          animation: steam 2.4s ease-out infinite;
+        }
+        @keyframes steam {
+          from {
+            transform: translateY(0);
+            opacity: 0.6;
+          }
+          to {
+            transform: translateY(-6px);
+            opacity: 0;
+          }
+        }
+        .sway {
+          transform-origin: 42px 78px;
+          animation: sway 5s ease-in-out infinite;
+        }
+        @keyframes sway {
+          50% {
+            transform: rotate(2deg);
+          }
+        }
+        .breathe {
+          transform-origin: 184px 90px;
+          animation: br 3.6s ease-in-out infinite;
+        }
+        @keyframes br {
+          50% {
+            transform: scaleY(1.06);
+          }
+        }
+        .tail {
+          transform-origin: 176px 87px;
+          animation: tail 2.8s ease-in-out infinite;
+        }
+        @keyframes tail {
+          50% {
+            transform: rotate(-14deg);
+          }
+        }
+        .zzz {
+          animation: zzz 3s ease-out infinite;
+        }
+        @keyframes zzz {
+          from {
+            transform: translate(0, 0);
+            opacity: 0;
+          }
+          30% {
+            opacity: 1;
+          }
+          to {
+            transform: translate(4px, -8px);
+            opacity: 0;
+          }
+        }
+        @media (prefers-reduced-motion: reduce) {
+          * {
+            animation: none !important;
+          }
+        }
+      </style>
+      <defs>
+        <clipPath id="room-sheth007-dark">
+          <rect width="880" height="448" rx="12" />
+        </clipPath>
+      </defs>
+      <g clip-path="url(#room-sheth007-dark)">
+        <g transform="scale(4)" shape-rendering="crispEdges">
+          <rect x="0" y="0" width="220" height="90" fill="#1c2130" />
+          <rect
+            x="0"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="16"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="32"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="48"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="64"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="80"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="96"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="112"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="128"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="144"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="160"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="176"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="192"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect
+            x="208"
+            y="0"
+            width="8"
+            height="90"
+            fill="#232a3b"
+            opacity=".35"
+          />
+          <rect x="0" y="88" width="220" height="2" fill="#563a27" />
+          <rect x="0" y="90" width="220" height="22" fill="#3a2c24" />
+          <rect x="-2" y="95" width="44" height="1" fill="#33261f" />
+          <rect x="44" y="95" width="44" height="1" fill="#33261f" />
+          <rect x="90" y="95" width="44" height="1" fill="#33261f" />
+          <rect x="136" y="95" width="44" height="1" fill="#33261f" />
+          <rect x="182" y="95" width="44" height="1" fill="#33261f" />
+          <rect x="-6" y="101" width="44" height="1" fill="#33261f" />
+          <rect x="40" y="101" width="44" height="1" fill="#33261f" />
+          <rect x="86" y="101" width="44" height="1" fill="#33261f" />
+          <rect x="132" y="101" width="44" height="1" fill="#33261f" />
+          <rect x="178" y="101" width="44" height="1" fill="#33261f" />
+          <rect x="-10" y="107" width="44" height="1" fill="#33261f" />
+          <rect x="36" y="107" width="44" height="1" fill="#33261f" />
+          <rect x="82" y="107" width="44" height="1" fill="#33261f" />
+          <rect x="128" y="107" width="44" height="1" fill="#33261f" />
+          <rect x="174" y="107" width="44" height="1" fill="#33261f" />
+          <rect x="8" y="12" width="52" height="42" fill="#11151d" />
+          <rect x="10" y="14" width="48" height="38" fill="#7cc4ff" />
+          <defs>
+            <clipPath id="sky-sheth007-dark">
+              <rect x="10" y="14" width="48" height="38" />
+            </clipPath>
+          </defs>
+          <g clip-path="url(#sky-sheth007-dark)">
+            <rect x="44" y="19" width="8" height="8" fill="#ffd84d" />
+            <rect x="43" y="21" width="10" height="4" fill="#ffd84d" />
+            <g
+              class="cloud"
+              style="animation-duration: 22s; animation-delay: -0s"
+            >
+              <rect x="12" y="20" width="12" height="3" fill="#ffffff" />
+              <rect x="14" y="18" width="7" height="2" fill="#ffffff" />
+            </g>
+          </g>
+          <rect x="33" y="14" width="2" height="38" fill="#11151d" />
+          <rect x="10" y="32" width="48" height="2" fill="#11151d" />
+          <rect x="6" y="54" width="56" height="3" fill="#6b4a32" />
+          <rect x="74" y="10" width="67" height="13" fill="#11151d" />
+          <rect x="75" y="11" width="65" height="11" fill="#f4e9d4" />
+          <g shape-rendering="crispEdges">
+            <rect x="79" y="13" width="4" height="1" fill="#2b2118" />
+            <rect x="78" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="78" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="79" y="16" width="3" height="1" fill="#2b2118" />
+            <rect x="82" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="82" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="78" y="19" width="4" height="1" fill="#2b2118" />
+            <rect x="84" y="13" width="1" height="1" fill="#2b2118" />
+            <rect x="88" y="13" width="1" height="1" fill="#2b2118" />
+            <rect x="84" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="88" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="84" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="88" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="84" y="16" width="5" height="1" fill="#2b2118" />
+            <rect x="84" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="88" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="84" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="88" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="84" y="19" width="1" height="1" fill="#2b2118" />
+            <rect x="88" y="19" width="1" height="1" fill="#2b2118" />
+            <rect x="90" y="13" width="5" height="1" fill="#2b2118" />
+            <rect x="90" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="90" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="90" y="16" width="4" height="1" fill="#2b2118" />
+            <rect x="90" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="90" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="90" y="19" width="5" height="1" fill="#2b2118" />
+            <rect x="96" y="13" width="5" height="1" fill="#2b2118" />
+            <rect x="98" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="98" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="98" y="16" width="1" height="1" fill="#2b2118" />
+            <rect x="98" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="98" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="98" y="19" width="1" height="1" fill="#2b2118" />
+            <rect x="102" y="13" width="1" height="1" fill="#2b2118" />
+            <rect x="106" y="13" width="1" height="1" fill="#2b2118" />
+            <rect x="102" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="106" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="102" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="106" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="102" y="16" width="5" height="1" fill="#2b2118" />
+            <rect x="102" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="106" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="102" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="106" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="102" y="19" width="1" height="1" fill="#2b2118" />
+            <rect x="106" y="19" width="1" height="1" fill="#2b2118" />
+            <rect x="114" y="13" width="1" height="1" fill="#2b2118" />
+            <rect x="118" y="13" width="1" height="1" fill="#2b2118" />
+            <rect x="114" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="118" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="114" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="118" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="114" y="16" width="1" height="1" fill="#2b2118" />
+            <rect x="118" y="16" width="1" height="1" fill="#2b2118" />
+            <rect x="114" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="118" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="114" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="118" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="115" y="19" width="3" height="1" fill="#2b2118" />
+            <rect x="120" y="13" width="4" height="1" fill="#2b2118" />
+            <rect x="120" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="124" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="120" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="124" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="120" y="16" width="1" height="1" fill="#2b2118" />
+            <rect x="124" y="16" width="1" height="1" fill="#2b2118" />
+            <rect x="120" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="124" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="120" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="124" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="120" y="19" width="4" height="1" fill="#2b2118" />
+            <rect x="127" y="13" width="3" height="1" fill="#2b2118" />
+            <rect x="126" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="130" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="126" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="130" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="126" y="16" width="5" height="1" fill="#2b2118" />
+            <rect x="126" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="130" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="126" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="130" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="126" y="19" width="1" height="1" fill="#2b2118" />
+            <rect x="130" y="19" width="1" height="1" fill="#2b2118" />
+            <rect x="132" y="13" width="1" height="1" fill="#2b2118" />
+            <rect x="136" y="13" width="1" height="1" fill="#2b2118" />
+            <rect x="132" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="136" y="14" width="1" height="1" fill="#2b2118" />
+            <rect x="133" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="135" y="15" width="1" height="1" fill="#2b2118" />
+            <rect x="134" y="16" width="1" height="1" fill="#2b2118" />
+            <rect x="134" y="17" width="1" height="1" fill="#2b2118" />
+            <rect x="134" y="18" width="1" height="1" fill="#2b2118" />
+            <rect x="134" y="19" width="1" height="1" fill="#2b2118" />
+          </g>
+          <circle cx="192" cy="16" r="7" fill="#f4e9d4" />
+          <circle
+            cx="192"
+            cy="16"
+            r="7"
+            fill="none"
+            stroke="#11151d"
+            stroke-width="1.2"
+          />
+          <line
+            x1="192"
+            y1="16"
+            x2="190.69"
+            y2="12.75"
+            stroke="#2b2118"
+            stroke-width="1"
+          />
+          <line
+            x1="192"
+            y1="16"
+            x2="197.47"
+            y2="16.57"
+            stroke="#2b2118"
+            stroke-width=".7"
+          />
+          <rect x="170" y="44" width="44" height="2" fill="#6b4a32" />
+          <rect x="170" y="46" width="44" height="1" fill="#563a27" />
+          <rect x="170" y="62" width="44" height="2" fill="#6b4a32" />
+          <rect x="170" y="64" width="44" height="1" fill="#563a27" />
+          <rect x="171" y="35" width="7" height="9" fill="#e34c26" />
+          <rect x="171" y="37" width="7" height="1" fill="#943119" />
+          <rect x="179" y="33" width="2" height="11" fill="#4F5D95" />
+          <rect x="179" y="35" width="2" height="1" fill="#333c61" />
+          <rect x="182" y="33" width="2" height="11" fill="#663399" />
+          <rect x="182" y="35" width="2" height="1" fill="#422163" />
+          <rect x="185" y="33" width="2" height="11" fill="#00B4AB" />
+          <rect x="185" y="35" width="2" height="1" fill="#00756f" />
+          <rect x="188" y="34" width="2" height="10" fill="#f1e05a" />
+          <rect x="188" y="36" width="2" height="1" fill="#9d923b" />
+          <rect x="66" y="66" width="92" height="4" fill="#6b4a32" />
+          <rect x="66" y="70" width="92" height="2" fill="#563a27" />
+          <rect x="70" y="72" width="3" height="18" fill="#563a27" />
+          <rect x="151" y="72" width="3" height="18" fill="#563a27" />
+          <rect x="82" y="28" width="60" height="36" fill="#3b4252" />
+          <rect x="84" y="30" width="56" height="32" fill="#0b1220" />
+          <rect x="109" y="64" width="6" height="3" fill="#3b4252" />
+          <rect x="104" y="66" width="16" height="1" fill="#3b4252" />
+          <defs>
+            <clipPath id="scr-sheth007-dark">
+              <rect x="84" y="30" width="56" height="32" />
+            </clipPath>
+          </defs>
+          <g clip-path="url(#scr-sheth007-dark)">
+            <g class="scroll" style="--h: -37.8px">
+              <text
+                x="86"
+                y="35.0"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#c9d1d9"
+              >
+                $ git log --oneline
+              </text>
+              <text
+                x="86"
+                y="39.2"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Portfolio: Changed the canonical links basic
+              </text>
+              <text
+                x="86"
+                y="43.4"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Portfolio: Updated CV
+              </text>
+              <text
+                x="86"
+                y="47.6"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Portfolio: Update experience.html
+              </text>
+              <text
+                x="86"
+                y="51.8"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Portfolio: Update index.html
+              </text>
+              <text
+                x="86"
+                y="56.0"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Ghost-Clean: Update README.md
+              </text>
+              <text
+                x="86"
+                y="60.2"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Ghost-Clean: Update README.md
+              </text>
+              <text
+                x="86"
+                y="64.4"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Flutter-Recon: README.md
+              </text>
+              <text
+                x="86"
+                y="68.6"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Flutter-Recon: README.md
+              </text>
+              <text
+                x="86"
+                y="72.8"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#c9d1d9"
+              >
+                $ git log --oneline
+              </text>
+              <text
+                x="86"
+                y="77.0"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Portfolio: Changed the canonical links basic
+              </text>
+              <text
+                x="86"
+                y="81.2"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Portfolio: Updated CV
+              </text>
+              <text
+                x="86"
+                y="85.4"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Portfolio: Update experience.html
+              </text>
+              <text
+                x="86"
+                y="89.6"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Portfolio: Update index.html
+              </text>
+              <text
+                x="86"
+                y="93.8"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Ghost-Clean: Update README.md
+              </text>
+              <text
+                x="86"
+                y="98.0"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Ghost-Clean: Update README.md
+              </text>
+              <text
+                x="86"
+                y="102.2"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Flutter-Recon: README.md
+              </text>
+              <text
+                x="86"
+                y="106.4"
+                font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace"
+                font-size="2.6"
+                fill="#7ee787"
+              >
+                Flutter-Recon: README.md
+              </text>
+            </g>
+            <rect
+              x="84"
+              y="30"
+              width="56"
+              height="32"
+              fill="#1f6feb"
+              opacity=".06"
+              class="flicker"
+            />
+          </g>
+          <rect x="96" y="63" width="32" height="3" fill="#3b4252" />
+          <rect x="97" y="63" width="30" height="1" fill="#626875" />
+          <rect x="138" y="58" width="6" height="8" fill="#d9d2c3" />
+          <rect x="144" y="60" width="2" height="3" fill="#d9d2c3" />
+          <rect
+            x="139"
+            y="54"
+            width="1"
+            height="3"
+            fill="#c9d1d9"
+            class="steam"
+            style="animation-delay: 0s"
+            opacity=".6"
+          />
+          <rect
+            x="141"
+            y="54"
+            width="1"
+            height="3"
+            fill="#c9d1d9"
+            class="steam"
+            style="animation-delay: 0.5s"
+            opacity=".6"
+          />
+          <rect
+            x="143"
+            y="54"
+            width="1"
+            height="3"
+            fill="#c9d1d9"
+            class="steam"
+            style="animation-delay: 1s"
+            opacity=".6"
+          />
+          <rect x="74" y="38" width="2" height="28" fill="#3b4252" />
+          <rect x="70" y="34" width="12" height="5" fill="#f2cc60" />
+          <polygon
+            points="70,39 82,39 92,66 62,66"
+            fill="#f2cc60"
+            opacity=".07"
+            class="flicker"
+          />
+          <rect x="36" y="78" width="12" height="12" fill="#9a5b3a" />
+          <rect x="35" y="78" width="14" height="2" fill="#7b492e" />
+          <rect
+            x="41"
+            y="62"
+            width="2"
+            height="16"
+            fill="#2ea043"
+            class="sway"
+          />
+          <rect
+            x="36"
+            y="66"
+            width="6"
+            height="3"
+            fill="#2ea043"
+            class="sway"
+          />
+          <rect
+            x="43"
+            y="64"
+            width="7"
+            height="3"
+            fill="#2ea043"
+            class="sway"
+          />
+          <rect
+            x="34"
+            y="71"
+            width="7"
+            height="3"
+            fill="#2ea043"
+            class="sway"
+          />
+          <rect
+            x="44"
+            y="70"
+            width="6"
+            height="3"
+            fill="#2ea043"
+            class="sway"
+          />
+          <rect x="110" y="74" width="18" height="3" fill="#30363d" />
+          <rect x="124" y="60" width="3" height="16" fill="#30363d" />
+          <rect x="117" y="77" width="3" height="13" fill="#30363d" />
+          <g class="breathe">
+            <rect x="176" y="84" width="16" height="6" fill="#e8a65d" />
+            <rect x="188" y="81" width="6" height="5" fill="#e8a65d" />
+            <rect x="188" y="80" width="2" height="2" fill="#c47f3a" />
+            <rect x="192" y="80" width="2" height="2" fill="#c47f3a" />
+            <rect x="178" y="86" width="10" height="1" fill="#c47f3a" />
+          </g>
+          <g class="tail">
+            <rect x="170" y="86" width="7" height="2" fill="#c47f3a" />
+          </g>
+          <g class="zzz">
+            <g shape-rendering="crispEdges">
+              <rect x="196" y="72" width="4" height="0.8" fill="#9198a1" />
+              <rect
+                x="199.2"
+                y="72.8"
+                width="0.8"
+                height="0.8"
+                fill="#9198a1"
+              />
+              <rect
+                x="198.4"
+                y="73.6"
+                width="0.8"
+                height="0.8"
+                fill="#9198a1"
+              />
+              <rect
+                x="197.6"
+                y="74.4"
+                width="0.8"
+                height="0.8"
+                fill="#9198a1"
+              />
+              <rect
+                x="196.8"
+                y="75.2"
+                width="0.8"
+                height="0.8"
+                fill="#9198a1"
+              />
+              <rect x="196" y="76" width="0.8" height="0.8" fill="#9198a1" />
+              <rect x="196" y="76.8" width="4" height="0.8" fill="#9198a1" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
